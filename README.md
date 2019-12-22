@@ -1,6 +1,7 @@
 # simple_tweet_searcher
 A python script to find tweets with hashtags or text.
 
+This is a small script I wrote to learn about twitter API and as a tool for myself to search for recent and relevant research related tweets.
 
 Usage:
 
